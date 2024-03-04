@@ -1,0 +1,91 @@
+.nav-link a{
+    color: rgba(113, 119, 241, 1);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 16px;
+}
+.button{
+    box-shadow: 0px 0px 5px 1px rgba(113, 119, 241, 0.5);
+    background: rgba(113, 119, 241, 1);
+    border: none;
+    color: #fff;
+    padding: 10px 43px;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 16px;
+}
+.header h3{
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.header p{
+    max-width: 515px;
+    font-weight: 600;
+    font-size: 40px;
+    letter-spacing: 3px;
+    color: rgba(113, 119, 241, 1);
+}
+.work{
+    padding-top: 200px;
+}
+.work-card{
+    width: 630px;
+    height: 450px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px 3px rgba(113, 119, 241, 0.15);
+}
+.work-card h4{
+    font-family: 'Montserrat';
+    font-size: 40px;
+    color: rgba(113, 119, 241, 1);
+    font-weight: 600;
+    line-height: 30px;
+}
+.work-card p{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    color: black;
+    font-weight: 400;
+    line-height: 27px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    overflow: hidden;
+}
+.text-center{
+    font-family: 'Montserrat';
+    font-size: 40px;
+    color: rgba(113, 119, 241, 1);
+    font-weight: 600;
+    line-height: 49px;
+}
+.accordion-button p{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 22px;
+    color: rgba(113, 119, 241, 1);
+}
+.nike-card{
+    width: 960px;
+    min-height: 360px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px 3px rgba(113, 119, 241, 0.15);
+}
+.nike-text h5{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    color: rgba(113, 119, 241, 1);
+    font-weight: 600;
+    line-height: 29px;
+}
+.nike-text p{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: rgba(50, 50, 50, 1);
+    letter-spacing: 0.1rem;
+}
